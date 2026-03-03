@@ -1,7 +1,7 @@
 # shopping-cart
 Simple code of python to acknowledge shopping cart bill with discount system.
 ## Features
-- Additems.
+- Add items.
 ## Technologies Used
 - Python 3
 
